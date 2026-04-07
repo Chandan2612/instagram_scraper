@@ -1,0 +1,465 @@
+[2026-04-06 15:40:34] --- NEW SESSION STARTED ---
+[2026-04-06 15:40:40] ✅ SAVED: ahungrybookishgirl | 34000 followers | Name: ahungrybookishgirl
+[2026-04-06 15:42:49] --- NEW SESSION STARTED ---
+[2026-04-06 15:42:56] ✅ SAVED: ahungrybookishgirl | 34000 followers | Name: ahungrybookishgirl
+[2026-04-06 15:43:34] ⏭ SKIPPED: food.safaari | 6590 (Below 10k)
+[2026-04-06 15:44:00] ⏭ SKIPPED: vibe.your.way | 4391 (Below 10k)
+[2026-04-06 15:44:25] ✅ SAVED: whatchucraving | 127000 followers | Name: whatchucraving
+[2026-04-06 15:44:47] ⏭ SKIPPED: grid.qid | 1477 (Below 10k)
+[2026-04-06 15:45:12] ✅ SAVED: destinywithfood | 87000 followers | Name: destinywithfood
+[2026-04-06 15:45:36] ⏭ SKIPPED: hydcafediaries | 1812 (Below 10k)
+[2026-04-06 15:45:58] ✅ SAVED: telanganaeats | 50000 followers | Name: telanganaeats
+[2026-04-06 15:46:45] ⏭ SKIPPED: _.wanderinglust._ | 9160 (Below 10k)
+[2026-04-06 15:47:07] ✅ SAVED: cinematic_flare_tales | 24000 followers | Name: cinematic_flare_tales
+[2026-04-06 15:48:04] ✅ SAVED: samar_exploring | 14000 followers | Name: samar_exploring
+[2026-04-06 15:48:29] ✅ SAVED: beingfoodhunters | 16000 followers | Name: beingfoodhunters
+[2026-04-06 15:48:51] ✅ SAVED: aesthetic_droll | 149000 followers | Name: aesthetic_droll
+[2026-04-06 15:49:13] ⏭ SKIPPED: karunyakars_ | 1097 (Below 10k)
+[2026-04-06 15:50:08] ✅ SAVED: thingstodoinhyderabad | 270000 followers | Name: thingstodoinhyderabad
+[2026-04-06 15:50:30] ⏭ SKIPPED: thebreakboundaries | 619 (Below 10k)
+[2026-04-06 15:50:53] ✅ SAVED: whataroundhyderabad | 134000 followers | Name: whataroundhyderabad
+[2026-04-06 15:51:16] ⏭ SKIPPED: corpofoodie | 1875 (Below 10k)
+[2026-04-06 15:51:41] ✅ SAVED: travel.eat.nd.repeat | 60000 followers | Name: travel.eat.nd.repeat
+[2026-04-06 15:52:05] ✅ SAVED: ghumakkadwomaniya | 82000 followers | Name: ghumakkadwomaniya
+[2026-04-06 15:52:27] ✅ SAVED: hyderabad.weekends | 28000 followers | Name: hyderabad.weekends
+[2026-04-06 15:52:49] ✅ SAVED: imbasith | 23000 followers | Name: imbasith
+[2026-04-06 15:53:15] ⏭ SKIPPED: rantablebyrupa | 1471 (Below 10k)
+[2026-04-06 15:53:56] ✅ SAVED: hyderabadbeyondbiryani | 178000 followers | Name: hyderabadbeyondbiryani
+[2026-04-06 15:54:20] ✅ SAVED: pairedpassportz | 366000 followers | Name: pairedpassportz
+[2026-04-06 15:55:39] ✅ SAVED: swathi21.foodstories | 116000 followers | Name: swathi21.foodstories
+[2026-04-06 15:56:01] ⏭ SKIPPED: clicksby_anu | 509 (Below 10k)
+[2026-04-06 15:56:25] ⏭ SKIPPED: mission.weekend | 5617 (Below 10k)
+[2026-04-06 15:56:47] ⏭ SKIPPED: likki_diaries | 3852 (Below 10k)
+[2026-04-06 15:57:12] ⏭ SKIPPED: _vaishnavireddy.11 | 2765 (Below 10k)
+[2026-04-06 15:57:36] ⏭ SKIPPED: aesthetic.hopper | 3668 (Below 10k)
+[2026-04-06 15:58:18] ✅ SAVED: hyderabadi.foodstuff | 200000 followers | Name: hyderabadi.foodstuff
+[2026-04-06 15:58:41] ✅ SAVED: taste_of.travels | 107000 followers | Name: taste_of.travels
+[2026-04-06 15:59:06] ⏭ SKIPPED: _saranya_sasmita_ | 2662 (Below 10k)
+[2026-04-06 16:00:25] ✅ SAVED: mana_hyderabad._ | 66000 followers | Name: mana_hyderabad._
+[2026-04-06 16:00:51] ✅ SAVED: beee_lalala | 11000 followers | Name: beee_lalala
+[2026-04-06 16:01:13] ⏭ SKIPPED: matchadiaries.hyd | 1170 (Below 10k)
+[2026-04-06 16:01:39] ⏭ SKIPPED: explore_with_vamshi | 10000 (Below 10k)
+[2026-04-06 16:02:04] ✅ SAVED: devour_lifestyle | 18000 followers | Name: devour_lifestyle
+[2026-04-06 16:02:26] ⏭ SKIPPED: aesthetically_foodiee | 1698 (Below 10k)
+[2026-04-06 16:02:48] ⏭ SKIPPED: munny__pilla | 5298 (Below 10k)
+[2026-04-06 16:02:48] ⚠ Main Loop Error: [Errno 13] Permission denied: 'instagram_10k_leads.xlsx'
+[2026-04-06 16:02:55] ⚠ Main Loop Error: [Errno 13] Permission denied: 'instagram_10k_leads.xlsx'
+[2026-04-06 16:03:22] ⏭ SKIPPED: harinichowdary._ | 182 (Below 10k)
+[2026-04-06 16:04:04] ✅ SAVED: abbai_from_godavari | 25000 followers | Name: abbai_from_godavari
+[2026-04-06 16:04:47] ⏭ SKIPPED: hersheys.pov_ | 770 (Below 10k)
+[2026-04-06 16:05:09] ⏭ SKIPPED: hyd.daynight.vibes | 578 (Below 10k)
+[2026-04-06 16:05:34] ✅ SAVED: sarathcitycapitalmall | 49000 followers | Name: sarathcitycapitalmall
+[2026-04-06 16:06:46] ✅ SAVED: hyderabadinfra | 18000 followers | Name: hyderabadinfra
+[2026-04-06 16:07:10] ⏭ SKIPPED: twoside_tales | 1978 (Below 10k)
+[2026-04-06 16:07:32] ⏭ SKIPPED: priyankareddy.__ | 937 (Below 10k)
+[2026-04-06 16:07:54] ⏭ SKIPPED: heyy_sweety___ | 7519 (Below 10k)
+[2026-04-06 16:08:16] ✅ SAVED: hyderabadfoodich | 113000 followers | Name: hyderabadfoodich
+[2026-04-06 16:08:42] ⏭ SKIPPED: saniyafathima___ | 5987 (Below 10k)
+[2026-04-06 16:09:03] ⏭ SKIPPED: tiyatales | 3633 (Below 10k)
+[2026-04-06 16:09:28] ⏭ SKIPPED: sound_arya.v | 610 (Below 10k)
+[2026-04-06 16:09:50] ⏭ SKIPPED: stashbyher | 353 (Below 10k)
+[2026-04-06 16:10:14] ⏭ SKIPPED: _bharathiiiiiiiiii_ | 63 (Below 10k)
+[2026-04-06 16:10:35] ⏭ SKIPPED: userwithnoego | 294 (Below 10k)
+[2026-04-06 16:11:16] ✅ SAVED: sakandpepper | 13000 followers | Name: sakandpepper
+[2026-04-06 16:11:38] ✅ SAVED: sristi_._ | 21000 followers | Name: sristi_._
+[2026-04-06 16:12:20] ✅ SAVED: foodtrails_hyderabad | 171000 followers | Name: foodtrails_hyderabad
+[2026-04-06 16:12:42] ⏭ SKIPPED: aestheticdocc | 8253 (Below 10k)
+[2026-04-06 16:13:04] ⏭ SKIPPED: manikondahyderabad | 1820 (Below 10k)
+[2026-04-06 16:13:41] ⏭ SKIPPED: ray.foodiehyd | 3557 (Below 10k)
+[2026-04-06 16:14:06] ⏭ SKIPPED: vihara.yatralu | 4088 (Below 10k)
+[2026-04-06 16:14:30] ⏭ SKIPPED: unrealzia1 | 290 (Below 10k)
+[2026-04-06 16:14:54] ⏭ SKIPPED: berryonlyyy | 4682 (Below 10k)
+[2026-04-06 16:15:16] ⏭ SKIPPED: thehimalayan452 | 1856 (Below 10k)
+[2026-04-06 16:15:41] ✅ SAVED: priya_sharma_17 | 16000 followers | Name: priya_sharma_17
+[2026-04-06 16:16:06] ⏭ SKIPPED: hyderabad_echoes | 3003 (Below 10k)
+[2026-04-06 16:16:30] ⏭ SKIPPED: kashoutcalories | 1330 (Below 10k)
+[2026-04-06 16:17:08] ✅ SAVED: thebingejournal | 24000 followers | Name: thebingejournal
+[2026-04-06 16:17:30] ⏭ SKIPPED: stayatsakala | 3035 (Below 10k)
+[2026-04-06 16:17:54] ⏭ SKIPPED: gachibowlirentforflat | 6997 (Below 10k)
+[2026-04-06 16:18:37] ⏭ SKIPPED: anweshamitra_ | 3902 (Below 10k)
+[2026-04-06 16:19:02] ⏭ SKIPPED: vineeliciously | 10000 (Below 10k)
+[2026-04-06 16:19:24] ⏭ SKIPPED: niksonthemap | 2157 (Below 10k)
+[2026-04-06 16:19:46] ⏭ SKIPPED: hari_priya1198 | 234 (Below 10k)
+[2026-04-06 16:20:08] ✅ SAVED: _notjustamedico | 194000 followers | Name: _notjustamedico
+[2026-04-06 16:20:31] ⏭ SKIPPED: bhuvan._kumar._ | 2481 (Below 10k)
+[2026-04-06 16:20:53] ✅ SAVED: hyderabadifoodtalks | 67000 followers | Name: hyderabadifoodtalks
+[2026-04-06 16:21:15] ⏭ SKIPPED: horizon_gaming_attapur | 256 (Below 10k)
+[2026-04-06 16:21:39] ⏭ SKIPPED: food_i_neer | 91 (Below 10k)
+[2026-04-06 16:22:42] ✅ SAVED: travel.with.vanazza | 38000 followers | Name: travel.with.vanazza
+[2026-04-06 16:23:21] ⏭ SKIPPED: ___harsha________________ | 398 (Below 10k)
+[2026-04-06 16:23:45] ✅ SAVED: mana_bachupally_ | 16000 followers | Name: mana_bachupally_
+[2026-04-06 16:24:24] ✅ SAVED: hyderabadcityvlogs | 72000 followers | Name: hyderabadcityvlogs
+[2026-04-06 16:24:46] ⏭ SKIPPED: her_littlemomentsssss | 181 (Below 10k)
+[2026-04-06 16:25:10] ⏭ SKIPPED: bhavya_rapolu | 1514 (Below 10k)
+[2026-04-06 16:25:33] ⏭ SKIPPED: mr.tuned_ | 4204 (Below 10k)
+[2026-04-06 16:25:54] ⏭ SKIPPED: _.photo__booth._ | 499 (Below 10k)
+[2026-04-06 16:26:18] ✅ SAVED: corporatehobbbies | 18000 followers | Name: corporatehobbbies
+[2026-04-06 16:26:41] ✅ SAVED: soujanyapriyaa | 42000 followers | Name: soujanyapriyaa
+[2026-04-06 16:27:04] ⏭ SKIPPED: dailytrendingreels2026 | 355 (Below 10k)
+[2026-04-06 16:27:47] ⏭ SKIPPED: manikonda_update | 2328 (Below 10k)
+[2026-04-06 16:28:10] ✅ SAVED: hyderabad_data | 16000 followers | Name: hyderabad_data
+[2026-04-06 16:28:32] ✅ SAVED: chikki__reddie__ | 84000 followers | Name: chikki__reddie__
+[2026-04-06 16:28:57] ✅ SAVED: glamsoulwithbeauty | 114000 followers | Name: glamsoulwithbeauty
+[2026-04-06 16:29:37] ⏭ SKIPPED: _.gayatrimehta._ | 2602 (Below 10k)
+[2026-04-06 16:30:02] ✅ SAVED: the_foodies_planet | 120000 followers | Name: the_foodies_planet
+[2026-04-06 16:30:40] ⏭ SKIPPED: ifhediaries | 7237 (Below 10k)
+[2026-04-06 16:31:19] ⏭ SKIPPED: jairaw.7 | 65 (Below 10k)
+[2026-04-06 16:31:56] ✅ SAVED: flats_for_rent_sale_hyderabad | 42000 followers | Name: flats_for_rent_sale_hyderabad
+[2026-04-06 16:32:21] ⏭ SKIPPED: aayushi.k_12 | 6060 (Below 10k)
+[2026-04-06 16:32:58] ⏭ SKIPPED: appyislost | 8943 (Below 10k)
+[2026-04-06 16:33:20] ⏭ SKIPPED: shivanigoud_b | 1676 (Below 10k)
+[2026-04-06 16:33:43] ✅ SAVED: tejaswiphotographyy | 21000 followers | Name: tejaswiphotographyy
+[2026-04-06 16:34:05] ⏭ SKIPPED: learn_and_drive2 | 1132 (Below 10k)
+[2026-04-06 16:34:30] ⏭ SKIPPED: gayathri_doppani_08 | 419 (Below 10k)
+[2026-04-06 16:34:52] ⏭ SKIPPED: akinani.vibezz_ | 342 (Below 10k)
+[2026-04-06 16:35:15] ⏭ SKIPPED: lovebakeryjubileehills | 519 (Below 10k)
+[2026-04-06 16:35:36] ⏭ SKIPPED: _.srujana_ | 892 (Below 10k)
+[2026-04-06 16:35:59] ✅ SAVED: foodie_twist | 16000 followers | Name: foodie_twist
+[2026-04-06 16:36:21] ⏭ SKIPPED: suryaadubey | 1868 (Below 10k)
+[2026-04-06 16:36:42] ⏭ SKIPPED: by.tulasea | 56 (Below 10k)
+[2026-04-06 16:37:04] ⏭ SKIPPED: choco_bubbles_ | 739 (Below 10k)
+[2026-04-06 16:37:29] ✅ SAVED: homesofhyd__ | 99000 followers | Name: homesofhyd__
+[2026-04-06 16:37:51] ⏭ SKIPPED: hydhorseadventure | 8792 (Below 10k)
+[2026-04-06 16:38:16] ⏭ SKIPPED: macharla_akshay | 8973 (Below 10k)
+[2026-04-06 16:38:41] ✅ SAVED: whattodoinhyderabad | 76000 followers | Name: whattodoinhyderabad
+[2026-04-06 16:39:04] ✅ SAVED: todoin.hyd | 49000 followers | Name: todoin.hyd
+[2026-04-06 16:39:26] ✅ SAVED: modithefoodie | 61000 followers | Name: modithefoodie
+[2026-04-06 16:39:48] ✅ SAVED: hyd_and_me | 24000 followers | Name: hyd_and_me
+[2026-04-06 16:40:13] ✅ SAVED: storiesby.m | 19000 followers | Name: storiesby.m
+[2026-04-06 16:40:52] ✅ SAVED: hyderabadifoodboy | 264000 followers | Name: hyderabadifoodboy
+[2026-04-06 16:41:14] ✅ SAVED: iconicbengaluru | 110000 followers | Name: iconicbengaluru
+[2026-04-06 16:41:36] ✅ SAVED: tirugubro | 98000 followers | Name: tirugubro
+[2026-04-06 16:42:01] ✅ SAVED: thetravelworld2020 | 95000 followers | Name: thetravelworld2020
+[2026-04-06 16:42:38] ✅ SAVED: namaste_gurgoan | 39000 followers | Name: namaste_gurgoan
+[2026-04-06 16:43:00] ⏭ SKIPPED: __tanvireddyyy | 5575 (Below 10k)
+[2026-04-06 16:43:22] ⏭ SKIPPED: kavali_kurodu_inrealestate_hyd | 265 (Below 10k)
+[2026-04-06 16:43:44] ⏭ SKIPPED: life.on.cameraaa | 510 (Below 10k)
+[2026-04-06 16:44:08] ⏭ SKIPPED: nandinisimhaa | 6168 (Below 10k)
+[2026-04-06 16:44:31] ⏭ SKIPPED: plates_n_places16 | 585 (Below 10k)
+[2026-04-06 16:44:53] ✅ SAVED: austinjoy.official | 35000 followers | Name: austinjoy.official
+[2026-04-06 16:45:15] ⏭ SKIPPED: miss18_fashion_studio | 3121 (Below 10k)
+[2026-04-06 16:45:37] ⏭ SKIPPED: moumitapatnaik | 1706 (Below 10k)
+[2026-04-06 16:45:59] ✅ SAVED: thegluttonjournal | 82000 followers | Name: thegluttonjournal
+[2026-04-06 16:46:21] ⏭ SKIPPED: eraevents2k25 | 531 (Below 10k)
+[2026-04-06 16:46:43] ✅ SAVED: the_dark_whale_ | 61000 followers | Name: the_dark_whale_
+[2026-04-06 16:47:04] ⏭ SKIPPED: manaa_manikonda | 10000 (Below 10k)
+[2026-04-06 16:47:27] ⏭ SKIPPED: ashachowdary5 | 294 (Below 10k)
+[2026-04-06 16:47:48] ✅ SAVED: chaithuofficial | 39000 followers | Name: chaithuofficial
+[2026-04-06 16:48:10] ⏭ SKIPPED: only_prasshu | 158 (Below 10k)
+[2026-04-06 16:48:32] ⏭ SKIPPED: anirudhdanapalli | 625 (Below 10k)
+[2026-04-06 16:48:54] ✅ SAVED: imc.tirupati | 18000 followers | Name: imc.tirupati
+[2026-04-06 16:49:31] ⏭ SKIPPED: kavyakishan | 6072 (Below 10k)
+[2026-04-06 16:49:53] ✅ SAVED: village_trails | 14000 followers | Name: village_trails
+[2026-04-06 16:50:15] ✅ SAVED: highenddeals | 181000 followers | Name: highenddeals
+[2026-04-06 16:50:38] ✅ SAVED: sivaprasannagsp | 54000 followers | Name: sivaprasannagsp
+[2026-04-06 16:51:00] ⏭ SKIPPED: ala_hasthinapuramlo | 3159 (Below 10k)
+[2026-04-06 16:51:25] ⏭ SKIPPED: adorable.anah | 234 (Below 10k)
+[2026-04-06 16:51:46] ✅ SAVED: corp_mallu_hyd | 21000 followers | Name: corp_mallu_hyd
+[2026-04-06 16:52:08] ⏭ SKIPPED: travelwithprasad1 | 253 (Below 10k)
+[2026-04-06 16:52:30] ⏭ SKIPPED: theaddresshyd | 185 (Below 10k)
+[2026-04-06 16:53:15] ⏭ SKIPPED: satyajit_rout18 | 1074 (Below 10k)
+[2026-04-06 16:53:39] ⏭ SKIPPED: avanthikaneti | 8352 (Below 10k)
+[2026-04-06 16:54:04] ⏭ SKIPPED: lifew.ishhh | 358 (Below 10k)
+[2026-04-06 16:54:41] ⏭ SKIPPED: simply_pavii | 3464 (Below 10k)
+[2026-04-06 16:55:18] ⏭ SKIPPED: aakanksha._.31 | 1844 (Below 10k)
+[2026-04-06 16:55:43] ⏭ SKIPPED: tishanireddy | 763 (Below 10k)
+[2026-04-06 16:56:07] ⏭ SKIPPED: hamid_raza_blogs | 1999 (Below 10k)
+[2026-04-06 16:56:33] ⏭ SKIPPED: flexandflyy | 3810 (Below 10k)
+[2026-04-06 16:56:55] ⏭ SKIPPED: thediaryof.vee | 625 (Below 10k)
+[2026-04-06 16:57:17] ⏭ SKIPPED: harshaja_pagala | 2017 (Below 10k)
+[2026-04-06 16:57:57] ⏭ SKIPPED: staytuned_priyanka | 237 (Below 10k)
+[2026-04-06 16:58:22] ✅ SAVED: chillpatill | 58000 followers | Name: chillpatill
+[2026-04-06 16:58:44] ✅ SAVED: miyapur_vibes | 16000 followers | Name: miyapur_vibes
+[2026-04-06 16:59:09] ⏭ SKIPPED: gnapika.reddyy | 3442 (Below 10k)
+[2026-04-06 16:59:51] ✅ SAVED: akshara.mk | 22000 followers | Name: akshara.mk
+[2026-04-06 17:00:13] ⏭ SKIPPED: linnn.psd | 1818 (Below 10k)
+[2026-04-06 17:00:34] ⏭ SKIPPED: _casualchronicles_ | 488 (Below 10k)
+[2026-04-06 17:00:56] ✅ SAVED: priyamsaraswat | 2000000 followers | Name: priyamsaraswat
+[2026-04-06 17:01:33] ✅ SAVED: bachupallybuzz | 41000 followers | Name: bachupallybuzz
+[2026-04-06 17:01:55] ✅ SAVED: zaheerabadtalks | 12000 followers | Name: zaheerabadtalks
+[2026-04-06 17:02:18] ✅ SAVED: athulya_nambiar._ | 211000 followers | Name: athulya_nambiar._
+[2026-04-06 17:02:58] ⏭ SKIPPED: akshitaaahere | 5119 (Below 10k)
+[2026-04-06 17:03:24] ✅ SAVED: taleszoya__ | 21000 followers | Name: taleszoya__
+[2026-04-06 17:04:02] ✅ SAVED: couplewhowanders | 221000 followers | Name: couplewhowanders
+[2026-04-06 17:04:28] ✅ SAVED: anushaadabalavlogs | 67000 followers | Name: anushaadabalavlogs
+[2026-04-06 17:04:54] ⏭ SKIPPED: next_shootz | 922 (Below 10k)
+[2026-04-06 17:05:15] ✅ SAVED: funcity_waterpark | 22000 followers | Name: funcity_waterpark
+[2026-04-06 17:05:38] ✅ SAVED: explorewith_misba | 20000 followers | Name: explorewith_misba
+[2026-04-06 17:06:00] ✅ SAVED: assetnx | 12000 followers | Name: assetnx
+[2026-04-06 17:06:21] ✅ SAVED: hyderabadbucketlist | 456000 followers | Name: hyderabadbucketlist
+[2026-04-06 17:06:47] ✅ SAVED: hyderabadfoodrepublic | 30000 followers | Name: hyderabadfoodrepublic
+[2026-04-06 17:07:24] ⏭ SKIPPED: xplorewdaleem | 3373 (Below 10k)
+[2026-04-06 17:08:20] ✅ SAVED: reside_realty | 27000 followers | Name: reside_realty
+[2026-04-06 17:10:05] ✅ SAVED: with.nikhita | 12000 followers | Name: with.nikhita
+[2026-04-06 17:10:32] ✅ SAVED: apytravelstelugu | 11000 followers | Name: apytravelstelugu
+[2026-04-06 17:11:11] ✅ SAVED: nom.nom.foodie | 147000 followers | Name: nom.nom.foodie
+[2026-04-06 17:11:35] ✅ SAVED: _hyderabad_food | 40000 followers | Name: _hyderabad_food
+[2026-04-06 17:11:57] ✅ SAVED: yellow_yards | 21000 followers | Name: yellow_yards
+[2026-04-06 17:12:20] ⏭ SKIPPED: primehomepropertieshyd | 8147 (Below 10k)
+[2026-04-06 17:12:45] ✅ SAVED: harinya_reddyy | 47000 followers | Name: harinya_reddyy
+[2026-04-06 17:13:08] ⏭ SKIPPED: anas.mirza21 | 6053 (Below 10k)
+[2026-04-06 17:13:31] ✅ SAVED: mountain._.pirates | 73000 followers | Name: mountain._.pirates
+[2026-04-06 17:13:53] ✅ SAVED: manikonda_tolets | 15000 followers | Name: manikonda_tolets
+[2026-04-06 17:14:37] ⏭ SKIPPED: kamran_vlogs_1122 | 3379 (Below 10k)
+[2026-04-06 17:15:15] ✅ SAVED: intothe_streets | 20000 followers | Name: intothe_streets
+[2026-04-06 17:15:38] ✅ SAVED: foodieraaja | 336000 followers | Name: foodieraaja
+[2026-04-06 17:16:00] ⏭ SKIPPED: hyperarun | 953 (Below 10k)
+[2026-04-06 17:16:22] ⏭ SKIPPED: lingampally_adda | 7789 (Below 10k)
+[2026-04-06 17:16:45] ⏭ SKIPPED: chayanika_h_ | 8755 (Below 10k)
+[2026-04-06 17:17:08] ⏭ SKIPPED: pulse.hyd | 937 (Below 10k)
+[2026-04-06 17:17:30] ⏭ SKIPPED: itsjustme_sree | 602 (Below 10k)
+[2026-04-06 17:17:54] ⏭ SKIPPED: kristipatideepthi | 2751 (Below 10k)
+[2026-04-06 17:18:20] ⏭ SKIPPED: sahil_pov | 1701 (Below 10k)
+[2026-04-06 17:19:02] ⏭ SKIPPED: anushas__world | 1595 (Below 10k)
+[2026-04-06 17:19:46] ✅ SAVED: bite_the_route | 12000 followers | Name: bite_the_route
+[2026-04-06 17:20:09] ✅ SAVED: vibeofhyderabad | 171000 followers | Name: vibeofhyderabad
+[2026-04-06 17:20:32] ✅ SAVED: timepass_guruji | 67000 followers | Name: timepass_guruji
+[2026-04-06 17:21:12] ⏭ SKIPPED: fourwallhome | 3526 (Below 10k)
+[2026-04-06 17:21:35] ✅ SAVED: aamir_foodietraveler | 367000 followers | Name: aamir_foodietraveler
+[2026-04-06 17:21:59] ✅ SAVED: purvicollections_ | 520000 followers | Name: purvicollections_
+[2026-04-06 17:22:21] ✅ SAVED: pune_trendingnow | 29000 followers | Name: pune_trendingnow
+[2026-04-06 17:22:46] ⏭ SKIPPED: me_ndmy_chaos | 767 (Below 10k)
+[2026-04-06 17:23:46] ⏭ SKIPPED: frames_by_snehaa | 1392 (Below 10k)
+[2026-04-06 17:24:08] ⏭ SKIPPED: explore_with_shilpa | 1285 (Below 10k)
+[2026-04-06 17:24:30] ⏭ SKIPPED: the.other_shift | 2832 (Below 10k)
+[2026-04-06 17:24:53] ✅ SAVED: madihaatarannum | 61000 followers | Name: madihaatarannum
+[2026-04-06 17:25:18] ✅ SAVED: urbansprawlhyd | 108000 followers | Name: urbansprawlhyd
+[2026-04-06 17:25:56] ⏭ SKIPPED: sagarroad._diaries | 2308 (Below 10k)
+[2026-04-06 17:26:39] ⏭ SKIPPED: sikkolu_yatrikudu | 9400 (Below 10k)
+[2026-04-06 17:27:19] ⏭ SKIPPED: stitchoncall01 | 4394 (Below 10k)
+[2026-04-06 17:27:41] ⏭ SKIPPED: nanirealestate3 | 8714 (Below 10k)
+[2026-04-06 17:28:03] ✅ SAVED: heyitstharun | 157000 followers | Name: heyitstharun
+[2026-04-06 17:28:28] ⏭ SKIPPED: sahanya_prat | 812 (Below 10k)
+[2026-04-06 17:28:51] ✅ SAVED: mallu_nomad | 319000 followers | Name: mallu_nomad
+[2026-04-06 17:29:14] ⏭ SKIPPED: crazy_sidhu.7 | 1736 (Below 10k)
+[2026-04-06 17:29:36] ✅ SAVED: na_mental_madhilo | 28000 followers | Name: na_mental_madhilo
+[2026-04-06 17:29:59] ✅ SAVED: maatala_mantrikudu_ | 70000 followers | Name: maatala_mantrikudu_
+[2026-04-06 17:30:21] ⏭ SKIPPED: imvishalkumar654 | 1786 (Below 10k)
+[2026-04-06 17:31:02] ⏭ SKIPPED: bhavyeahhhhhhhh | 2657 (Below 10k)
+[2026-04-06 17:31:28] ✅ SAVED: sridha_properties | 49000 followers | Name: sridha_properties
+[2026-04-06 17:32:06] ✅ SAVED: tgap_realty | 24000 followers | Name: tgap_realty
+[2026-04-06 17:32:32] ✅ SAVED: hyderabad.servd | 56000 followers | Name: hyderabad.servd
+[2026-04-06 17:32:55] ⏭ SKIPPED: miracle_ocean10 | 6582 (Below 10k)
+[2026-04-06 17:33:18] ✅ SAVED: hyderabadfoodie__ | 13000 followers | Name: hyderabadfoodie__
+[2026-04-06 17:33:41] ✅ SAVED: borabanda_chinna | 347000 followers | Name: borabanda_chinna
+[2026-04-06 17:34:03] ✅ SAVED: aravind.clickz | 32000 followers | Name: aravind.clickz
+[2026-04-06 17:34:28] ⏭ SKIPPED: deepu_reddy_e | 8484 (Below 10k)
+[2026-04-06 17:34:51] ⏭ SKIPPED: tjtellsall_ | 591 (Below 10k)
+[2026-04-06 17:35:16] ⏭ SKIPPED: juxt_salman | 1319 (Below 10k)
+[2026-04-06 17:35:39] ✅ SAVED: way_to_akshi | 15000 followers | Name: way_to_akshi
+[2026-04-06 17:36:17] ⏭ SKIPPED: ashxduo | 340 (Below 10k)
+[2026-04-06 17:36:41] ⏭ SKIPPED: life_of.samm | 668 (Below 10k)
+[2026-04-06 17:37:20] ⏭ SKIPPED: petrolhead_hyderabad | 3416 (Below 10k)
+[2026-04-06 17:37:42] ✅ SAVED: hydrn.in | 42000 followers | Name: hydrn.in
+[2026-04-06 17:38:05] ✅ SAVED: glamby_nausheensyed | 15000 followers | Name: glamby_nausheensyed
+[2026-04-06 17:38:30] ✅ SAVED: bhashi_chaganti | 13000 followers | Name: bhashi_chaganti
+[2026-04-06 17:38:56] ⏭ SKIPPED: theprettygrid_ | 2986 (Below 10k)
+[2026-04-06 17:39:21] ⏭ SKIPPED: food._.destinations | 1583 (Below 10k)
+[2026-04-06 17:39:44] ✅ SAVED: ekbihari_ladki | 28000 followers | Name: ekbihari_ladki
+[2026-04-06 17:40:06] ⏭ SKIPPED: beeblogs__ | 2476 (Below 10k)
+[2026-04-06 17:41:03] ⏭ SKIPPED: navyapallam | 4442 (Below 10k)
+[2026-04-06 17:41:44] ⏭ SKIPPED: _nehanuddin_ | 470 (Below 10k)
+[2026-04-06 17:42:09] ⏭ SKIPPED: hemanthdaily | 579 (Below 10k)
+[2026-04-06 17:42:48] ⏭ SKIPPED: _suha.hahaha | 409 (Below 10k)
+[2026-04-06 17:43:30] ⏭ SKIPPED: haripriya_5 | 1963 (Below 10k)
+[2026-04-06 17:43:54] ⏭ SKIPPED: chetnasingh___ | 4545 (Below 10k)
+[2026-04-06 17:44:16] ⏭ SKIPPED: koti_vibess | 1353 (Below 10k)
+[2026-04-06 17:44:39] ⏭ SKIPPED: joyce._.mercy | 5198 (Below 10k)
+[2026-04-06 17:45:19] ⏭ SKIPPED: monarakshana | 3197 (Below 10k)
+[2026-04-06 17:45:42] ✅ SAVED: nwellness.in | 12000 followers | Name: nwellness.in
+[2026-04-06 17:46:05] ✅ SAVED: studio_palasa | 327000 followers | Name: studio_palasa
+[2026-04-06 17:46:28] ⏭ SKIPPED: __nikkitha | 553 (Below 10k)
+[2026-04-06 17:47:11] ⏭ SKIPPED: manognasingss.__ | 2339 (Below 10k)
+[2026-04-06 17:47:36] ⏭ SKIPPED: talesofabrowngirll | 3388 (Below 10k)
+[2026-04-06 17:47:59] ✅ SAVED: miss_ghising_here | 42000 followers | Name: miss_ghising_here
+[2026-04-06 17:48:21] ✅ SAVED: delish.eateria | 169000 followers | Name: delish.eateria
+[2026-04-06 17:48:46] ⏭ SKIPPED: umarfilms_ | 8952 (Below 10k)
+[2026-04-06 17:49:29] ⏭ SKIPPED: _univentures | 1251 (Below 10k)
+[2026-04-06 17:49:52] ⏭ SKIPPED: poojaa.diaries | 6690 (Below 10k)
+[2026-04-06 17:50:15] ✅ SAVED: aesthe.tic_latte | 13000 followers | Name: aesthe.tic_latte
+[2026-04-06 17:50:37] ⏭ SKIPPED: vstrom_pulse | 134 (Below 10k)
+[2026-04-06 17:51:04] ⏭ SKIPPED: _miss.talekar_ | 735 (Below 10k)
+[2026-04-06 17:53:24] ⏭ SKIPPED: sow.thrifts | 2393 (Below 10k)
+[2026-04-06 17:53:46] ⏭ SKIPPED: _aqsiiii | 884 (Below 10k)
+[2026-04-06 17:54:08] ⏭ SKIPPED: alluri.diaries | 326 (Below 10k)
+[2026-04-06 17:54:33] ✅ SAVED: wtfwheresthefood__ | 116000 followers | Name: wtfwheresthefood__
+[2026-04-06 17:54:55] ✅ SAVED: isharda_vibes01 | 35000 followers | Name: isharda_vibes01
+[2026-04-06 17:55:18] ⏭ SKIPPED: deekshascamera | 2382 (Below 10k)
+[2026-04-06 17:55:40] ⏭ SKIPPED: _just_janhviiii_ | 462 (Below 10k)
+[2026-04-06 17:56:05] ✅ SAVED: arunakrithi | 259000 followers | Name: arunakrithi
+[2026-04-06 17:56:45] ⏭ SKIPPED: bhuvanaa.21 | 3167 (Below 10k)
+[2026-04-06 17:57:07] ✅ SAVED: dreamy_wanderers_ | 23000 followers | Name: dreamy_wanderers_
+[2026-04-06 17:57:29] ✅ SAVED: hyderabadi_kudii | 16000 followers | Name: hyderabadi_kudii
+[2026-04-06 17:57:51] ⏭ SKIPPED: justethrealness | 2767 (Below 10k)
+[2026-04-06 17:58:13] ⏭ SKIPPED: aj_7hundred | 1695 (Below 10k)
+[2026-04-06 17:58:35] ⏭ SKIPPED: fun.tribes | 2737 (Below 10k)
+[2026-04-06 17:58:57] ⏭ SKIPPED: heyitsmusk_ | 681 (Below 10k)
+[2026-04-06 17:59:19] ✅ SAVED: kanto_aerosports | 13000 followers | Name: kanto_aerosports
+[2026-04-06 17:59:42] ✅ SAVED: vizag_weatherman | 361000 followers | Name: vizag_weatherman
+[2026-04-06 18:00:04] ⏭ SKIPPED: megacitytourstravells | 1295 (Below 10k)
+[2026-04-06 18:00:28] ✅ SAVED: rajadvithi1 | 143000 followers | Name: rajadvithi1
+[2026-04-06 18:00:51] ✅ SAVED: madhuravisweswaran | 159000 followers | Name: madhuravisweswaran
+[2026-04-06 18:01:13] ⏭ SKIPPED: yumroutes | 520 (Below 10k)
+[2026-04-06 18:01:35] ⏭ SKIPPED: _.only_garima | 4780 (Below 10k)
+[2026-04-06 18:01:58] ✅ SAVED: gayi2007 | 40000 followers | Name: gayi2007
+[2026-04-06 18:02:20] ⏭ SKIPPED: dreamrealty_hyd | 513 (Below 10k)
+[2026-04-06 18:03:15] ⏭ SKIPPED: tdotups_official | 951 (Below 10k)
+[2026-04-06 18:03:38] ✅ SAVED: hyderabad___life | 47000 followers | Name: hyderabad___life
+[2026-04-06 18:04:00] ⏭ SKIPPED: properties4u_hyd | 7661 (Below 10k)
+[2026-04-06 18:04:25] ✅ SAVED: vanasthalipuram_vibes | 25000 followers | Name: vanasthalipuram_vibes
+[2026-04-06 18:05:21] ⏭ SKIPPED: vaidology_04 | 897 (Below 10k)
+[2026-04-06 18:05:44] ⏭ SKIPPED: keerthynutakki | 4144 (Below 10k)
+[2026-04-06 18:06:09] ✅ SAVED: shootxpress_ | 11000 followers | Name: shootxpress_
+[2026-04-06 18:06:31] ⏭ SKIPPED: preethypanyam | 7871 (Below 10k)
+[2026-04-06 18:06:56] ✅ SAVED: humblemalayalii | 64000 followers | Name: humblemalayalii
+[2026-04-06 18:07:37] ✅ SAVED: venkys_food_byte | 246000 followers | Name: venkys_food_byte
+[2026-04-06 18:07:59] ⏭ SKIPPED: mubasheer6754 | 9045 (Below 10k)
+[2026-04-06 18:08:21] ⏭ SKIPPED: karunyareality | 2278 (Below 10k)
+[2026-04-06 18:08:45] ⏭ SKIPPED: bethufunky | 6708 (Below 10k)
+[2026-04-06 18:09:23] ✅ SAVED: ordinary__vlogger | 41000 followers | Name: ordinary__vlogger
+[2026-04-06 18:10:02] ⏭ SKIPPED: charaniiiiiii03 | 1061 (Below 10k)
+[2026-04-06 18:10:26] ✅ SAVED: citylights.hyd | 13000 followers | Name: citylights.hyd
+[2026-04-06 18:10:49] ✅ SAVED: hyderabadi_influencer | 292000 followers | Name: hyderabadi_influencer
+[2026-04-06 18:11:12] ✅ SAVED: unseenchennai | 509000 followers | Name: unseenchennai
+[2026-04-06 18:11:50] ✅ SAVED: giri_ningagalla | 11000 followers | Name: giri_ningagalla
+[2026-04-06 18:12:12] ✅ SAVED: azeem_explorer | 142000 followers | Name: azeem_explorer
+[2026-04-06 18:12:35] ⏭ SKIPPED: vkclickzzz | 5945 (Below 10k)
+[2026-04-06 18:13:16] ⏭ SKIPPED: thekarthikdiaries | 7400 (Below 10k)
+[2026-04-06 18:13:57] ⏭ SKIPPED: shynis_serenity | 3677 (Below 10k)
+[2026-04-06 18:14:20] ⏭ SKIPPED: dakhnibites | 1656 (Below 10k)
+[2026-04-06 18:14:42] ⏭ SKIPPED: shovon.redwan | 336 (Below 10k)
+[2026-04-06 18:15:05] ⏭ SKIPPED: offline_storiz | 3630 (Below 10k)
+[2026-04-06 18:15:28] ✅ SAVED: budgetvlogger | 389000 followers | Name: budgetvlogger
+[2026-04-06 18:16:08] ⏭ SKIPPED: memmugguram | 6740 (Below 10k)
+[2026-04-06 18:16:30] ⏭ SKIPPED: frames_by__sid | 943 (Below 10k)
+[2026-04-06 18:16:53] ✅ SAVED: ft_guruu | 108000 followers | Name: ft_guruu
+[2026-04-06 18:17:15] ✅ SAVED: saikiran_films | 15000 followers | Name: saikiran_films
+[2026-04-06 18:17:40] ✅ SAVED: brandvizag | 176000 followers | Name: brandvizag
+[2026-04-06 18:18:02] ⏭ SKIPPED: prettyyy.messss | 984 (Below 10k)
+[2026-04-06 18:18:27] ⏭ SKIPPED: arkexplores_5 | 1933 (Below 10k)
+[2026-04-06 18:19:24] ⏭ SKIPPED: mazheronestopdeals | 3846 (Below 10k)
+[2026-04-06 18:20:28] ⏭ SKIPPED: hyderabadtoka_ | 6289 (Below 10k)
+[2026-04-06 18:21:08] ✅ SAVED: adventuresoverland | 315000 followers | Name: adventuresoverland
+[2026-04-06 18:21:30] ✅ SAVED: saikrupareddy13 | 62000 followers | Name: saikrupareddy13
+[2026-04-06 18:21:53] ✅ SAVED: vizagaesthetics_ | 17000 followers | Name: vizagaesthetics_
+[2026-04-06 18:22:16] ⏭ SKIPPED: hydglamgirl | 5334 (Below 10k)
+[2026-04-06 18:22:39] ⏭ SKIPPED: autotrance_1511 | 4691 (Below 10k)
+[2026-04-06 18:23:02] ⏭ SKIPPED: nihanth_.11 | 1215 (Below 10k)
+[2026-04-06 18:23:31] ⏭ SKIPPED: syedsiraj119 | 3457 (Below 10k)
+[2026-04-06 18:23:57] ✅ SAVED: pistahousehyd | 121000 followers | Name: pistahousehyd
+[2026-04-06 18:24:41] ✅ SAVED: shop_with_shahbaaz | 190000 followers | Name: shop_with_shahbaaz
+[2026-04-06 18:25:04] ✅ SAVED: varshithareddy.y | 23000 followers | Name: varshithareddy.y
+[2026-04-06 18:25:27] ⏭ SKIPPED: doublemasala.hyd | 6631 (Below 10k)
+[2026-04-06 18:25:51] ⏭ SKIPPED: mana_alwalsuchitra | 939 (Below 10k)
+[2026-04-06 18:26:13] ✅ SAVED: teja_vibes | 31000 followers | Name: teja_vibes
+[2026-04-06 18:26:36] ⏭ SKIPPED: thrify_vintagegarage | 9093 (Below 10k)
+[2026-04-06 18:26:58] ✅ SAVED: vizaglifestylee | 76000 followers | Name: vizaglifestylee
+[2026-04-06 18:27:21] ⏭ SKIPPED: dailywid.me_ | 168 (Below 10k)
+[2026-04-06 18:27:43] ⏭ SKIPPED: life.of.prav | 1342 (Below 10k)
+[2026-04-06 18:28:07] ⏭ SKIPPED: hennabysafina__01 | 974 (Below 10k)
+[2026-04-06 18:28:45] ✅ SAVED: _the__exxplorer_ | 1000000 followers | Name: _the__exxplorer_
+[2026-04-06 18:29:08] ✅ SAVED: karthic_poppienz | 116000 followers | Name: karthic_poppienz
+[2026-04-06 18:29:30] ⏭ SKIPPED: hmcollectionsgajuwaka | 2923 (Below 10k)
+[2026-04-06 18:29:56] ⏭ SKIPPED: ashusnapbin | 6461 (Below 10k)
+[2026-04-06 18:30:21] ⏭ SKIPPED: _mr.monarch._ | 770 (Below 10k)
+[2026-04-06 18:30:44] ✅ SAVED: vizag_inframes | 11000 followers | Name: vizag_inframes
+[2026-04-06 18:31:25] ⏭ SKIPPED: map_your_vibes | 1803 (Below 10k)
+[2026-04-06 18:31:51] ✅ SAVED: tripwithmp | 511000 followers | Name: tripwithmp
+[2026-04-06 18:32:14] ✅ SAVED: kgm_pvc_memes | 69000 followers | Name: kgm_pvc_memes
+[2026-04-06 18:33:12] ⏭ SKIPPED: syed.sa4d23 | 400 (Below 10k)
+[2026-04-06 18:33:35] ⏭ SKIPPED: five_mini_gang | 7458 (Below 10k)
+[2026-04-06 18:33:58] ✅ SAVED: thevizaglocals | 112000 followers | Name: thevizaglocals
+[2026-04-06 18:34:21] ⏭ SKIPPED: riyanshika_rentalproperty | 4583 (Below 10k)
+[2026-04-06 18:35:00] ✅ SAVED: vijayawadainsight | 12000 followers | Name: vijayawadainsight
+[2026-04-06 18:35:23] ✅ SAVED: vibe_with_vishnu | 12000 followers | Name: vibe_with_vishnu
+[2026-04-06 18:35:45] ⏭ SKIPPED: iammallick10 | 638 (Below 10k)
+[2026-04-06 18:36:07] ⏭ SKIPPED: miss_vayyari | 1614 (Below 10k)
+[2026-04-06 18:36:32] ⏭ SKIPPED: sarath_reddipalli | 1462 (Below 10k)
+[2026-04-06 18:36:54] ✅ SAVED: fatfoodiehyd | 172000 followers | Name: fatfoodiehyd
+[2026-04-06 18:37:21] ⏭ SKIPPED: worldthroughmyeyes_suhas | 765 (Below 10k)
+[2026-04-06 18:38:03] ⏭ SKIPPED: has.inireddy11 | 699 (Below 10k)
+[2026-04-06 18:38:29] ⏭ SKIPPED: sahithyareddy1314 | 1420 (Below 10k)
+[2026-04-06 18:38:52] ⏭ SKIPPED: jaithra.films | 521 (Below 10k)
+[2026-04-06 18:39:15] ✅ SAVED: srivinayakacollection01 | 167000 followers | Name: srivinayakacollection01
+[2026-04-06 18:39:37] ⏭ SKIPPED: ugc__tulip__77 | 1679 (Below 10k)
+[2026-04-06 18:40:15] ✅ SAVED: trendwithindianarab | 481000 followers | Name: trendwithindianarab
+[2026-04-06 18:40:44] ⏭ SKIPPED: aquarius_soundarya_ | 4553 (Below 10k)
+[2026-04-06 18:41:07] ✅ SAVED: _teju_jew | 14000 followers | Name: _teju_jew
+[2026-04-06 18:41:48] ✅ SAVED: hyderabadi_vloger09 | 94000 followers | Name: hyderabadi_vloger09
+[2026-04-06 18:42:10] ⏭ SKIPPED: nr_worldd | 4596 (Below 10k)
+[2026-04-06 18:42:33] ⏭ SKIPPED: im___archana | 1067 (Below 10k)
+[2026-04-06 18:42:56] ⏭ SKIPPED: the_vizag_wave | 413 (Below 10k)
+[2026-04-06 18:43:20] ✅ SAVED: _satyasri__official.04 | 32000 followers | Name: _satyasri__official.04
+[2026-04-06 18:43:58] ⏭ SKIPPED: vaishnavi.gajjala | 1938 (Below 10k)
+[2026-04-06 18:44:21] ✅ SAVED: thefoodierider_hyderabad | 263000 followers | Name: thefoodierider_hyderabad
+[2026-04-06 18:44:46] ⏭ SKIPPED: througherlens1 | 433 (Below 10k)
+[2026-04-06 18:45:12] ✅ SAVED: urs_chintu.1 | 87000 followers | Name: urs_chintu.1
+[2026-04-06 18:45:36] ✅ SAVED: alwalsuchitrakompally | 13000 followers | Name: alwalsuchitrakompally
+[2026-04-06 18:45:59] ⏭ SKIPPED: chennaicityexplore | 6775 (Below 10k)
+[2026-04-06 18:46:21] ⏭ SKIPPED: _sip.savour_ | 278 (Below 10k)
+[2026-04-06 18:46:50] ⏭ SKIPPED: frames_by_jak | 1770 (Below 10k)
+[2026-04-06 18:47:15] ⏭ SKIPPED: murali_yadhav12 | 711 (Below 10k)
+[2026-04-06 18:47:38] ✅ SAVED: irene_mj_ | 17000 followers | Name: irene_mj_
+[2026-04-06 18:48:04] ⏭ SKIPPED: techzy_boy | 3840 (Below 10k)
+[2026-04-06 18:48:28] ⏭ SKIPPED: crazydostan | 6980 (Below 10k)
+[2026-04-06 18:48:51] ✅ SAVED: trainonmap | 65000 followers | Name: trainonmap
+[2026-04-06 18:49:14] ⏭ SKIPPED: vijayawada_ai_vlogger | 1931 (Below 10k)
+[2026-04-06 18:49:37] ⏭ SKIPPED: clicksbyvarsh | 2213 (Below 10k)
+[2026-04-06 18:50:18] ⏭ SKIPPED: its_gombe_biradar | 5537 (Below 10k)
+[2026-04-06 18:50:41] ✅ SAVED: vizagforever | 584000 followers | Name: vizagforever
+[2026-04-06 18:51:03] ✅ SAVED: rental_houses_in_hyderabad | 92000 followers | Name: rental_houses_in_hyderabad
+[2026-04-06 18:51:26] ⏭ SKIPPED: hey_minie_ | 4472 (Below 10k)
+[2026-04-06 18:51:49] ⏭ SKIPPED: vizag_nagaram__ | 2936 (Below 10k)
+[2026-04-06 18:52:11] ✅ SAVED: yoodelhi | 16000 followers | Name: yoodelhi
+[2026-04-06 18:52:56] ⏭ SKIPPED: clutch_cruisers | 2787 (Below 10k)
+[2026-04-06 18:53:37] ✅ SAVED: epic_vizag_moments | 28000 followers | Name: epic_vizag_moments
+[2026-04-06 18:53:59] ⏭ SKIPPED: cinecrumbstravel | 157 (Below 10k)
+[2026-04-06 18:54:23] ⏭ SKIPPED: g3_journal | 1559 (Below 10k)
+[2026-04-06 18:54:46] ✅ SAVED: dancer_bhanumathi_46 | 28000 followers | Name: dancer_bhanumathi_46
+[2026-04-06 18:55:08] ✅ SAVED: swetha_hs_official | 86000 followers | Name: swetha_hs_official
+[2026-04-06 18:55:31] ✅ SAVED: godavari.abbai | 203000 followers | Name: godavari.abbai
+[2026-04-06 18:55:53] ✅ SAVED: challapalli_agent | 12000 followers | Name: challapalli_agent
+[2026-04-06 18:56:19] ⏭ SKIPPED: just_san_things | 1155 (Below 10k)
+[2026-04-06 18:56:41] ⏭ SKIPPED: vijju.diaries | 342 (Below 10k)
+[2026-04-06 18:57:07] ⏭ SKIPPED: sualeh__official | 4551 (Below 10k)
+[2026-04-06 18:57:30] ✅ SAVED: xyla_vlogss | 24000 followers | Name: xyla_vlogss
+[2026-04-06 18:57:53] ✅ SAVED: gully2desi | 13000 followers | Name: gully2desi
+[2026-04-06 18:58:36] ⏭ SKIPPED: vxshnux_maxx | 1130 (Below 10k)
+[2026-04-06 18:59:17] ⏭ SKIPPED: aura__of__vijayawada | 2618 (Below 10k)
+[2026-04-06 18:59:40] ✅ SAVED: _the.spice.of.life._ | 11000 followers | Name: _the.spice.of.life._
+[2026-04-06 19:00:04] ⏭ SKIPPED: travel_with_sandeep | 6491 (Below 10k)
+[2026-04-06 19:00:29] ⏭ SKIPPED: shivaniiiiiii_24 | 1558 (Below 10k)
+[2026-04-06 19:00:52] ✅ SAVED: mehkom_.15 | 14000 followers | Name: mehkom_.15
+[2026-04-06 19:01:16] ⏭ SKIPPED: tharla_deekshithadhanvi01 | 10000 (Below 10k)
+[2026-04-06 19:01:39] ✅ SAVED: chennai_weatherman_ | 277000 followers | Name: chennai_weatherman_
+[2026-04-06 19:02:05] ⏭ SKIPPED: _bybharath | 327 (Below 10k)
+[2026-04-06 19:02:33] ✅ SAVED: foodie_._gurl | 128000 followers | Name: foodie_._gurl
+[2026-04-06 19:02:56] ✅ SAVED: karunakar__redd | 34000 followers | Name: karunakar__redd
+[2026-04-06 19:03:19] ✅ SAVED: thegirlonexplore | 24000 followers | Name: thegirlonexplore
+[2026-04-06 19:03:43] ⏭ SKIPPED: miss.ammah | 410 (Below 10k)
+[2026-04-06 19:04:05] ✅ SAVED: platter_and_paths | 529000 followers | Name: platter_and_paths
+[2026-04-06 19:04:28] ⏭ SKIPPED: bhoomika_earth | 10000 (Below 10k)
+[2026-04-06 19:04:50] ✅ SAVED: vizag_chitralu_ | 30000 followers | Name: vizag_chitralu_
+[2026-04-06 19:05:13] ⏭ SKIPPED: explorer_panda_ | 9059 (Below 10k)
+[2026-04-06 19:05:36] ⏭ SKIPPED: storysculptor_1 | 672 (Below 10k)
+[2026-04-06 19:06:17] ✅ SAVED: venni6523 | 95000 followers | Name: venni6523
+[2026-04-06 19:06:40] ✅ SAVED: unitedtirupati_ | 234000 followers | Name: unitedtirupati_
+[2026-04-06 19:07:19] ✅ SAVED: shoe_vibes_officialpage | 13000 followers | Name: shoe_vibes_officialpage
+[2026-04-06 19:07:59] ⏭ SKIPPED: hey_harshithawww | 128 (Below 10k)
+[2026-04-06 19:08:22] ⏭ SKIPPED: naya.n184_ramagiri | 493 (Below 10k)
+[2026-04-06 19:08:44] ⏭ SKIPPED: her.aesthtics | 3031 (Below 10k)
+[2026-04-06 19:09:08] ⏭ SKIPPED: boholiving.in | 745 (Below 10k)
+[2026-04-06 19:09:31] ⏭ SKIPPED: yes_telugodu | 9782 (Below 10k)
+[2026-04-06 19:09:53] ✅ SAVED: joyfulsydney7 | 36000 followers | Name: joyfulsydney7
+[2026-04-06 19:10:16] ⏭ SKIPPED: life_of_us_05 | 124 (Below 10k)
+[2026-04-06 19:10:39] ⏭ SKIPPED: jyov_erse | 3496 (Below 10k)
+[2026-04-06 19:11:18] ⏭ SKIPPED: chaithu.z | 5121 (Below 10k)
+[2026-04-06 19:11:40] ✅ SAVED: guntur_honey_vlogs | 16000 followers | Name: guntur_honey_vlogs
+[2026-04-06 19:12:04] ⏭ SKIPPED: pratzpalette | 324 (Below 10k)
+[2026-04-06 19:12:30] ✅ SAVED: hyd_house.rentals | 11000 followers | Name: hyd_house.rentals
+[2026-04-06 19:12:53] ⏭ SKIPPED: nomadic_aarsh | 175 (Below 10k)
+[2026-04-06 19:13:16] ⏭ SKIPPED: _hey_kakinada_ | 70 (Below 10k)
+[2026-04-06 19:13:39] ⏭ SKIPPED: journey_withsindhuja | 2218 (Below 10k)
+[2026-04-06 19:14:24] ✅ SAVED: food_and_the_city___ | 16000 followers | Name: food_and_the_city___
+[2026-04-06 19:14:49] ✅ SAVED: vizagbachelor | 32000 followers | Name: vizagbachelor
+[2026-04-06 19:15:30] ✅ SAVED: vizag_entrepreneur | 238000 followers | Name: vizag_entrepreneur
