@@ -3,4 +3,5 @@ venv/
 __pycache__/
 *.pyc
 instagram_data.xlsx
+scraped_log.txt
 .pytest_cache/
